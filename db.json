@@ -1,0 +1,104 @@
+{
+  "seller": [
+    {
+      "name": "Anil Sidhu",
+      "email": "anil@seller.com",
+      "password": "abc@123",
+      "id": 1
+    },
+    {
+      "name": "Sam Sidhu",
+      "email": "sam@seller.com",
+      "password": "abc@123",
+      "id": 2
+    },
+    {
+      "name": "tony",
+      "password": "abc@123",
+      "email": "tony@test.com",
+      "id": 3
+    },
+    {
+      "name": "peter",
+      "password": "abc@123",
+      "email": "peter@gmail.com",
+      "id": 4
+    },
+    {
+      "name": "bruce",
+      "password": "abc@123",
+      "email": "bruce@test.com",
+      "id": 5
+    },
+    {
+      "name": "test",
+      "password": "test",
+      "email": "test@gmail.com",
+      "id": 6
+    },
+    {
+      "name": "test2",
+      "password": "test2",
+      "email": "test2@gmail.com",
+      "id": 7
+    },
+    {
+      "name": "hana",
+      "password": "hana",
+      "email": "hana@gmail.com",
+      "id": 8
+    },
+    {
+      "email": "",
+      "password": "",
+      "id": 9
+    },
+    {
+      "name": "asd",
+      "password": "asdas",
+      "email": "asdasdasd",
+      "id": 10
+    },
+    {
+      "name": "asdasd",
+      "password": "asdasd",
+      "email": "asdasd",
+      "id": 11
+    },
+    {
+      "name": "asda",
+      "password": "asda",
+      "email": "asdasdasd",
+      "id": 12
+    }
+  ],
+  "products": [
+    {
+      "name": "phone 14",
+      "price": "100000",
+      "category": "mobiles",
+      "color": "black",
+      "image": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcSOO1JDPUNwcPiqzHYhaL_zpJA0Ymlr6mD9sSgTPad_JYdrk-o",
+      "description": "hello users",
+      "id": 1
+    },
+    {
+      "name": "samsung m 40",
+      "price": "25000",
+      "color": "mobile",
+      "category": "black",
+      "description": "a samsung product",
+      "image": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcSOO1JDPUNwcPiqzHYhaL_zpJA0Ymlr6mD9sSgTPad_JYdrk-o",
+      "id": 2
+    },
+    {
+      "name": "i phone 14",
+      "price": "100000",
+      "color": "mobile",
+      "category": "black",
+      "description": "An apple product",
+      "image": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcSOO1JDPUNwcPiqzHYhaL_zpJA0Ymlr6mD9sSgTPad_JYdrk-o",
+      "id": 3
+    }
+  ]
+}
