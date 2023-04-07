@@ -1,3 +1,6 @@
+/* Importing Bootstrap SCSS file. */
+@import "bootstrap/scss/bootstrap";
+
 body {
   font-family: "Roboto", sans-serif;
 }
@@ -35,4 +38,15 @@ body {
 
 .message-p {
   color: green;
+}
+
+.carousel-caption {
+  background-color: #00000082;
+  border-radius: 5px;
+}
+
+.carousel-control-next-icon,
+.carousel-control-prev-icon {
+  background-color: black;
+  border-radius: 5px;
 }

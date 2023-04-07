@@ -66,39 +66,83 @@
       "id": 11
     },
     {
-      "name": "asda",
-      "password": "asda",
-      "email": "asdasdasd",
-      "id": 12
+      "name": "Sam Sidhu",
+      "email": "sam@seller.com",
+      "password": "abc@123",
+      "id": 13
     }
   ],
   "products": [
     {
-      "name": "phone 14",
-      "price": "100000",
-      "category": "mobiles",
+      "name": "Samsung m 41",
+      "price": "512",
       "color": "black",
+      "category": "White",
+      "description": "This is a product",
       "image": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcSOO1JDPUNwcPiqzHYhaL_zpJA0Ymlr6mD9sSgTPad_JYdrk-o",
-      "description": "hello users",
       "id": 1
     },
     {
-      "name": "samsung m 40",
-      "price": "25000",
-      "color": "mobile",
-      "category": "black",
-      "description": "a samsung product",
-      "image": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcSOO1JDPUNwcPiqzHYhaL_zpJA0Ymlr6mD9sSgTPad_JYdrk-o",
+      "name": "nokia",
+      "price": "2000",
+      "color": "blue",
+      "category": "smart phone",
+      "description": "this is a smart phone",
+      "image": "https://www.91-cdn.com/hub/wp-content/uploads/2022/07/Top-laptop-brands-in-India.jpg",
       "id": 2
     },
     {
-      "name": "i phone 14",
-      "price": "100000",
-      "color": "mobile",
-      "category": "black",
-      "description": "An apple product",
-      "image": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcSOO1JDPUNwcPiqzHYhaL_zpJA0Ymlr6mD9sSgTPad_JYdrk-o",
+      "name": "HP Laptop",
+      "price": "50000",
+      "color": "black",
+      "category": "Laptop",
+      "description": "Hp laptop for student and professionals",
+      "image": "https://www.91-cdn.com/hub/wp-content/uploads/2022/07/Top-laptop-brands-in-India.jpg",
       "id": 3
+    },
+    {
+      "name": "Nike Shoes",
+      "price": "3000",
+      "color": "Black",
+      "category": "Shoes",
+      "description": "Best shoes for Running",
+      "image": "https://static.nike.com/a/images/t_PDP_1280_v1/f_auto,q_auto:eco/1eeaacc0-e07c-4024-a5f7-57f2fd23e8a2/air-max-270-g-golf-shoe-Z6vCfs.png",
+      "id": 4
+    },
+    {
+      "name": "samsung m 40",
+      "price": "550",
+      "color": "white",
+      "category": "mobile",
+      "description": "this is a samsung product",
+      "image": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcSOO1JDPUNwcPiqzHYhaL_zpJA0Ymlr6mD9sSgTPad_JYdrk-o",
+      "id": 5
+    }
+  ],
+  "users": [
+    {
+      "name": "anil",
+      "email": "anil@seller.com",
+      "password": "abc@123",
+      "id": 1
+    },
+    {
+      "name": "petter",
+      "email": "petter@user.com",
+      "password": "123456",
+      "id": 2
+    },
+    {
+      "name": "vinay",
+      "email": "vinay@test.com",
+      "password": "123456",
+      "id": 3
+    },
+    {
+      "name": "123",
+      "email": "anil@seller.com",
+      "password": "abc@123",
+      "id": 4
     }
   ]
 }
