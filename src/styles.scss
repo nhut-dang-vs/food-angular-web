@@ -1,52 +1,59 @@
 /* Importing Bootstrap SCSS file. */
-@import "bootstrap/scss/bootstrap";
+@import 'bootstrap/scss/bootstrap';
 
 body {
-  font-family: "Roboto", sans-serif;
+	font-family: 'Roboto', sans-serif;
 }
 
 .container {
-  margin-left: 5%;
-  margin-right: 5%;
+	margin-left: 5%;
+	margin-right: 5%;
 }
 
 .common-form {
-  text-align: center;
-  display: flex;
-  margin: auto;
-  flex-direction: column;
-  width: 300px;
+	text-align: center;
+	display: flex;
+	margin: auto;
+	flex-direction: column;
+	width: 300px;
 }
 
 .form-input {
-  height: 35px;
-  margin-bottom: 20px;
-  padding-left: 10px;
-  border: 1px solid blueviolet;
-  color: blueviolet;
+	height: 35px;
+	margin-bottom: 20px;
+	padding-left: 10px;
+	border: 1px solid blueviolet;
+	color: blueviolet;
 }
 
 .form-button {
-  height: 35px;
-  border: 1px solid blueviolet;
-  cursor: pointer;
+	height: 35px;
+	border: 1px solid blueviolet;
+	cursor: pointer;
 }
 
 .error-p {
-  color: red;
+	color: red;
 }
 
 .message-p {
-  color: green;
+	color: green;
 }
 
 .carousel-caption {
-  background-color: #00000082;
-  border-radius: 5px;
+	background-color: #00000082;
+	border-radius: 5px;
 }
 
 .carousel-control-next-icon,
 .carousel-control-prev-icon {
-  background-color: black;
-  border-radius: 5px;
+	background-color: black;
+	border-radius: 5px;
+}
+
+.invalid-input {
+	color: red;
+	font-size: 12px;
+	margin-top: -20px;
+	text-align-last: left;
 }
